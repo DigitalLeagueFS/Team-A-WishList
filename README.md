@@ -1,3 +1,0 @@
-# README
-
-Wish list App
